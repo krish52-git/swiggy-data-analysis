@@ -17,7 +17,8 @@ This project focuses on analyzing Swiggy food delivery data using SQL to extract
 
 ---
 
-## 🐍 Python Visualization - <a href="https://github.com/krish52-git/swiggy-data-analysis/blob/main/swiggy_data.ipynb">
+## 🐍 Python Visualization
+- <a href="https://github.com/krish52-git/swiggy-data-analysis/blob/main/swiggy_data.ipynb">
 In addition to SQL analysis, Python (Pandas & Matplotlib) was used to:
 
 - Visualize top cities by order volume
@@ -25,7 +26,8 @@ In addition to SQL analysis, Python (Pandas & Matplotlib) was used to:
 - Understand category-wise demand
 
 
-## 📂 Dataset##  
+## 📂 Dataset## 
+- <a href="https://github.com/krish52-git/swiggy-data-analysis/blob/main/swiggy_data%20(2).csv">
 
 The dataset contains Swiggy order details such as:
 
@@ -46,6 +48,7 @@ The dataset contains Swiggy order details such as:
 ## 🛠️ Tools & Technologies
 
 * SQL (PostgreSQL / MySQL)
+  - <a href="https://github.com/krish52-git/swiggy-data-analysis/blob/main/Swiggy_SQL_Project_Krish.pdf">
 
 ---
 
